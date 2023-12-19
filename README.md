@@ -1,6 +1,6 @@
 # Calculadora Flutter com Provider 🧮
 
-Este é um aplicativo de calculadora desenvolvido em Flutter, utilizando o provider para como gerenciador de estado.
+Este é um aplicativo de calculadora desenvolvido em Flutter, utilizando o provider como gerenciador de estado.
 
 ![Demonstração da Calculadora](image.gif)
 
