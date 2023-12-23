@@ -30,14 +30,6 @@ Para utilizar este aplicativo:
 
 Certifique-se de ter o ambiente Flutter configurado corretamente.
 
-## Contribuições
-
-Contribuições são bem-vindas! Este projeto é destinado a fins educacionais. Sinta-se à vontade para fazer um fork do repositório e enviar suas solicitações pull (pull requests).
-
-## Agradecimentos
-
-Agradecemos ao Flutter e ao Provider por fornecerem excelentes ferramentas para o desenvolvimento de aplicações móveis de forma eficiente e organizada.
-
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
